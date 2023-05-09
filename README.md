@@ -1,4 +1,4 @@
-## Hola 👋, Soy Leonel Castañeda Alvarez  
+## Hola 👋,  Soy Leonel Castañeda Alvarez  
   
 
 <a href="https://github.com/leoncaal" target="_blank">
